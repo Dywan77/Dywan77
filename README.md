@@ -5,9 +5,9 @@
 
 ## Je suis Lycéen et développer débutant mais passioné !
 
-- 🔭 Je travail actuelement à amélioré mon [Robot Discord](https://github.com/Dywan77/PI-Discordbot.js)
-- 🌱 I’m currently learning everything 🤣
-- 👯 I’m looking to collaborate with other content creators
+- 🔭 Je travail actuelement à amélioré mon [Robot Discord](https://github.com/Dywan77/PI-Discordbot.js) 🔥
+- 🌱 Je dois apprendre le Python 😭
+- 👯 J'aimerais bien travaillier dans la [cybersécurité](https://www.sengager.fr/) de l'armée de terre 
 - 🥅 2020 Goals: Contribute more to Open Source projects
 - ⚡ Fun fact: I love to draw and play guitar / drums
 
