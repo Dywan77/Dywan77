@@ -39,7 +39,7 @@
 ---
 
 
-
+<details>
   <summary>:zap: Mes projets </summary>
   
 <!--START_SECTION:activity-->
@@ -48,14 +48,14 @@
 3. 💻 Mes débuts en Python : [Myfirstpython](https://github.com/Dywan77/Myfirstpython)
 <!--END_SECTION:activity-->
 
+</details>
 
-
-
+<details>
   <summary>:zap: Github Stats</summary>
 
   <img align="left" alt="Dywan's Github Stats" src="https://github-readme-stats.vercel.app/api?username=Dywan77&show_icons=true&theme=chartreuse-white&hide_border=true" />
 
-
+</details>
 
 [twitter]: https://twitter.com/intent/follow?original_referer=https%3A%2F%2Fgithub.com%2FDywan77r&screen_name=Dywan771
 [youtube]: https://www.youtube.com/channel/UCsgPYzCdaRK4dofWhYl0sTA/?sub_confirmation=1
