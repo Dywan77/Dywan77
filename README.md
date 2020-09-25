@@ -5,7 +5,7 @@
 
 ## Je suis Lycéen et développer débutant mais passioné !
 
-- 🔭 Je travail actuelement à amélioré mon robot Discord.
+- 🔭 Je travail actuelement à amélioré mon robot Discord.[PI]
 - 🌱 I’m currently learning everything 🤣
 - 👯 I’m looking to collaborate with other content creators
 - 🥅 2020 Goals: Contribute more to Open Source projects
