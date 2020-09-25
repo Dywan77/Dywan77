@@ -1,11 +1,11 @@
 ### Hey salut, Je suis Dywan 👋
 
-![PI](https://github.com/Dywan77/PI-Discordbot.js)
+
 [![Twitter Follow](https://img.shields.io/twitter/follow/Dywan77?color=1DA1F2&logo=twitter&style=for-the-badge)](https://twitter.com/intent/follow?original_referer=https%3A%2F%2Fgithub.com%2FDywan77r&screen_name=Dywan771)
 
 ## Je suis Lycéen et développer débutant mais passioné !
 
-- 🔭 Je travail actuelement à amélioré mon robot Discord.[PI]
+- 🔭 Je travail actuelement à amélioré mon [Robot Discord](https://github.com/Dywan77/PI-Discordbot.js)
 - 🌱 I’m currently learning everything 🤣
 - 👯 I’m looking to collaborate with other content creators
 - 🥅 2020 Goals: Contribute more to Open Source projects
