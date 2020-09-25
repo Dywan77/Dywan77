@@ -1,11 +1,11 @@
-### Hey salut, I'm Jesse - aka [codeSTACKr][website] 👋
+### Hey salut, Je suis Dywan 👋
 
-[![Website](https://img.shields.io/website?label=codeSTACKr.com&style=for-the-badge&url=https%3A%2F%2Fcodestackr.com)](https://codestackr.com)
-[![Twitter Follow](https://img.shields.io/twitter/follow/codeSTACKr?color=1DA1F2&logo=twitter&style=for-the-badge)](https://twitter.com/intent/follow?original_referer=https%3A%2F%2Fgithub.com%2FcodeSTACKr&screen_name=codeSTACKr)
+![PI](https://github.com/Dywan77/PI-Discordbot.js)
+[![Twitter Follow](https://img.shields.io/twitter/follow/Dywan77?color=1DA1F2&logo=twitter&style=for-the-badge)](https://twitter.com/intent/follow?original_referer=https%3A%2F%2Fgithub.com%2FDywan77r&screen_name=Dywan771)
 
-## I'm a Husband, Father, Developer, and Teacher!
+## Je suis Lycéen et développer débutant mais passioné !
 
-- 🔭 I’m currently working on a [VS Code Course][website]!
+- 🔭 Je travail actuelement à amélioré mon robot Discord.
 - 🌱 I’m currently learning everything 🤣
 - 👯 I’m looking to collaborate with other content creators
 - 🥅 2020 Goals: Contribute more to Open Source projects
