@@ -43,9 +43,9 @@
   <summary>:zap: Mes projets </summary>
   
 <!--START_SECTION:activity-->
-1.1️⃣ Mon Robot Discord : [PI-Discordbot.js](https://github.com/Dywan77/PI-Discordbot.js)
-2.2️⃣ Mon Site Internet : [dywan.com](https://github.com/Dywan77/dywan.com)
-3.3️⃣ Mes débuts en Python : [Myfirstpython](https://github.com/Dywan77/Myfirstpython)
+1. 1️⃣ Mon Robot Discord : [PI-Discordbot.js](https://github.com/Dywan77/PI-Discordbot.js)
+2. 2️⃣ Mon Site Internet : [dywan.com](https://github.com/Dywan77/dywan.com)
+3. 3️⃣ Mes débuts en Python : [Myfirstpython](https://github.com/Dywan77/Myfirstpython)
 <!--END_SECTION:activity-->
 
 </details>
