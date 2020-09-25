@@ -43,9 +43,9 @@
   <summary>:zap: Mes projets </summary>
   
 <!--START_SECTION:activity-->
-1. ❗️ Mon Robot Discord : [PI-Discordbot.js](https://github.com/Dywan77/PI-Discordbot.js)
-2. ❗️ Mon Site Internet : [dywan.com](https://github.com/Dywan77/dywan.com)
-3. ❗️ Mes débuts en Python : [Myfirstpython](https://github.com/Dywan77/Myfirstpython)
+1️⃣ Mon Robot Discord : [PI-Discordbot.js](https://github.com/Dywan77/PI-Discordbot.js)
+2️⃣ Mon Site Internet : [dywan.com](https://github.com/Dywan77/dywan.com)
+3️⃣ Mes débuts en Python : [Myfirstpython](https://github.com/Dywan77/Myfirstpython)
 <!--END_SECTION:activity-->
 
 </details>
@@ -53,7 +53,7 @@
 <details>
   <summary>:zap: Github Stats</summary>
 
-  <img align="left" alt="Dywan's Github Stats" src="https://github-readme-stats.vercel.app/api?username=Dywan77&show_icons=true&theme=chartreuse-dark&hide_border=true" />
+  <img align="left" alt="Dywan's Github Stats" src="https://github-readme-stats.vercel.app/api?username=Dywan77&show_icons=true&theme=chartreuse-white&hide_border=true" />
 
 </details>
 
