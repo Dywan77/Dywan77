@@ -43,11 +43,9 @@
   <summary>:zap: Mes projets </summary>
   
 <!--START_SECTION:activity-->
-1. ❗️ Mon robot Discord : [PI-Discordbot.js](https://github.com/Dywan77/PI-Discordbot.js)
-2. ❗️ Mon robot Discord : [PI-Discordbot.js](https://github.com/Dywan77/PI-Discordbot.js)
-3. ❗️ Mon robot Discord : [PI-Discordbot.js](https://github.com/Dywan77/PI-Discordbot.js)
-4. ❗️ Mon robot Discord : [PI-Discordbot.js](https://github.com/Dywan77/PI-Discordbot.js)
-5. ❗️ Mon robot Discord : [PI-Discordbot.js](https://github.com/Dywan77/PI-Discordbot.js)
+1. ❗️ Mon Robot Discord : [PI-Discordbot.js](https://github.com/Dywan77/PI-Discordbot.js)
+2. ❗️ Mon Site Internet : [dywan.com](https://github.com/Dywan77/dywan.com)
+3. ❗️ Mes débuts en Python : [Myfirstpython](https://github.com/Dywan77/Myfirstpython)
 <!--END_SECTION:activity-->
 
 </details>
@@ -55,7 +53,7 @@
 <details>
   <summary>:zap: Github Stats</summary>
 
-  <img align="left" alt="codeSTACKr's Github Stats" src="https://github-readme-stats.codestackr.vercel.app/api?username=codeSTACKr&show_icons=true&hide_border=true" />
+  <img align="left" alt="Dywan's Github Stats" src="https://github-readme-stats.vercel.app/api?username=Dywan77&show_icons=true&theme=chartreuse-dark&hide_border=true" />
 
 </details>
 
