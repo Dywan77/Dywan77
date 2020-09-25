@@ -1,6 +1,7 @@
 ### Hey Salut 👋
 
 ##Bienvenue sur mon profil !
+https://github-readme-stats.vercel.app/api?username=Dywan77&show_icons=true&theme=chartreuse-dark&hide_border=true
 
 <!--
 **Dywan77/Dywan77** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
