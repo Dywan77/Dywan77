@@ -31,7 +31,7 @@
 
 ### Stats :
 
-  <img align="left" alt="Dywan's Github Stats" src="https://github-readme-stats.vercel.app/api?username=Dywan77&show_icons=true&theme=chartreuse-black&hide_border=true" />
+  <img align="left" alt="Dywan's Github Stats" src="https://github-readme-stats.vercel.app/api?username=Dywan77&show_icons=true&theme=black&hide_border=true" />
 
 
 
