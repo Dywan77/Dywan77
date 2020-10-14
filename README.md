@@ -13,9 +13,7 @@
 
 ---
 
-
   ### Mes projets :
-  
 
 1. 🤖 Mon Robot Discord : [PI-Discordbot.js](https://github.com/Dywan77/PI-Discordbot.js)
 2. 🌐 Mon Site Internet : [dywan.com](https://github.com/Dywan77/Dywan.net)
@@ -28,24 +26,13 @@
 [<img align="left" alt="Dywan771 | Twitter" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" />][twitter]
 [<img align="left" alt="Dywan77 | Instagram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />][instagram]
 
-<br />
-
-
 ---
 
-
-
-
-
-
-
-
-<details>
-  <summary>:zap: Github Stats</summary>
+### Stats :
 
   <img align="left" alt="Dywan's Github Stats" src="https://github-readme-stats.vercel.app/api?username=Dywan77&show_icons=true&theme=chartreuse-white&hide_border=true" />
 
-</details>
+
 
 [twitter]: https://twitter.com/intent/follow?original_referer=https%3A%2F%2Fgithub.com%2FDywan77r&screen_name=Dywan771
 [youtube]: https://www.youtube.com/channel/UCsgPYzCdaRK4dofWhYl0sTA/?sub_confirmation=1
