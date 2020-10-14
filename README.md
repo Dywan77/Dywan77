@@ -8,8 +8,8 @@
 - 🔭 Je travail actuelement à amélioré mon [Robot Discord](https://github.com/Dywan77/PI-Discordbot.js) 🔥
 - 🌱 Je dois apprendre le Python 😭
 - 👯 J'aimerais bien travaillier dans la [cybersécurité de l'armée de terre](https://www.sengager.fr/emplois/informatique-telecoms/specialiste-cybersecurite)
-- 🥅 Objectif 2020: Etre certifier "Discord Développer"
-- ⚡ Fun fact: J'ai pas de Fun Fact...
+- 🥅 Objectif 2020: Etre certifier [Discord Développer](https://support.discord.com/hc/fr/articles/360040720412-Bot-Verification-and-Data-Whitelisting)
+- ⚡ Et j'ai aussi un projet de [site internet](https://github.com/Dywan77/Dywan.net)
 
 
 ### Suivez moi sur :
