@@ -39,15 +39,15 @@
 ---
 
 
-<details>
+
   <summary>:zap: Mes projets </summary>
   
-<!--START_SECTION:activity-->
+
 1. 🤖 Mon Robot Discord : [PI-Discordbot.js](https://github.com/Dywan77/PI-Discordbot.js)
 2. 🌐 Mon Site Internet : [dywan.com](https://github.com/Dywan77/Dywan.net)
 3. 💻 Mes débuts en Python : [Myfirstpython](https://github.com/Dywan77/Myfirstpython)
 4. 💻 Mon projet de flux de caméra transformé en symboles : [Ascii-Camera](https://github.com/Dywan77/Ascii-Cam)
-<!--END_SECTION:activity-->
+
 
 </details>
 
