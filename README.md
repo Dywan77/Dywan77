@@ -5,20 +5,21 @@
 
 ## Je suis Lycéen et développer débutant !
 
-- 🔭 Je travail actuelement à amélioré mon [Robot Discord](https://github.com/Dywan77/PI-Discordbot.js) 🔥
-- 🌱 Je dois apprendre le Python 😭
+- 🔭 Je travail actuelement à amélioré mon [Robot Discord](https://github.com/Dywan77/JavaScript/tree/main/PI%20Discord-robot) 🔥
+- 🌱 Je dois apprendre le [Python](https://github.com/Dywan77/Python) 😭
 - 👯 J'aimerais bien travaillier dans la [cybersécurité de l'armée de terre](https://www.sengager.fr/emplois/informatique-telecoms/specialiste-cybersecurite)
 - 🥅 Objectif 2020: Etre certifier [Discord Développer](https://support.discord.com/hc/fr/articles/360040720412-Bot-Verification-and-Data-Whitelisting)
-- ⚡ Et j'ai aussi un projet de [site internet](https://github.com/Dywan77/Dywan.net)
+- ⚡ Et j'ai aussi un projet de [site internet](https://github.com/Dywan77/HTML-CSS/tree/main/Developper-France.net)
 
 ---
 
   ### Mes projets :
 
-1. 🤖 Mon Robot Discord : [PI-Discordbot.js](https://github.com/Dywan77/PI-Discordbot.js)
-2. 🌐 Mon Site Internet : [dywan.com](https://github.com/Dywan77/Dywan.net)
-3. 💻 Mes débuts en Python : [Myfirstpython](https://github.com/Dywan77/Myfirstpython)
-4. 💻 Mon projet de flux de caméra transformé en symboles : [Ascii-Camera](https://github.com/Dywan77/Ascii-Cam)
+1. 🤖 Mon Robot Discord : [PI-Discordbot.js](https://github.com/Dywan77/JavaScript/tree/main/PI%20Discord-robot)
+2. 🌐 Mon Site Internet : [Mon Site](https://github.com/Dywan77/HTML-CSS/tree/main/Developper-France.net)
+3. 💻 Mes débuts en langage C : [C-Calcules](https://github.com/Dywan77/C)
+4. 💻 Mes débuts en Python : [Myfirstpython](https://github.com/Dywan77/Python)
+5. 💻 Mon projet de flux de caméra transformé en symboles : [Ascii-Camera](https://github.com/Dywan77/HTML-CSS/tree/main/Developper-France.net/ascii-cam)
 
 ### Suivez moi sur :
 
