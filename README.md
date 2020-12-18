@@ -20,9 +20,9 @@
 3. 💻 Mes débuts en langage C : [C-Calcules](https://github.com/Dywan77/C)
 4. 💻 Mes débuts en langage C++ : [C++](https://github.com/Dywan77/Cpp)
 5. 💻 Mes débuts en Python : [Myfirstpython](https://github.com/Dywan77/Python)
-5. 💻 Mes débuts en JavaScript : [JavaScript](https://github.com/Dywan77/JavaScript)
-5. 💻 Mes débuts en HTML-CSS : [HTML-CSS](https://github.com/Dywan77/HTML-CSS)
-6. 💻 Mon projet de flux de caméra transformé en symboles : [Ascii-Camera](https://github.com/Dywan77/HTML-CSS/tree/main/Developper-France.net/ascii-cam)
+6. 💻 Mes débuts en JavaScript : [JavaScript](https://github.com/Dywan77/JavaScript)
+7. 💻 Mes débuts en HTML-CSS : [HTML-CSS](https://github.com/Dywan77/HTML-CSS)
+8. 💻 Mon projet de flux de caméra transformé en symboles : [Ascii-Camera](https://github.com/Dywan77/HTML-CSS/tree/main/Developper-France.net/ascii-cam)
 
 ### Suivez moi sur :
 
