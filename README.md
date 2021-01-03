@@ -42,5 +42,3 @@
 [twitter]: https://twitter.com/intent/follow?original_referer=https%3A%2F%2Fgithub.com%2FDywan77r&screen_name=Dywan771
 [youtube]: https://www.youtube.com/channel/UCsgPYzCdaRK4dofWhYl0sTA/?sub_confirmation=1
 [instagram]: https://www.instagram.com/dywan77/
-
-//Dywan
