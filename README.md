@@ -8,8 +8,8 @@
 - 🔭 Je travail actuelement à amélioré mon [Robot Discord](https://github.com/Dywan77/JavaScript/tree/main/PI%20Discord-robot) 🔥
 - 🌱 Je dois apprendre le [Python](https://github.com/Dywan77/Python) 😭
 - 👯 J'aimerais bien travaillier dans la [cybersécurité de l'armée de terre](https://www.sengager.fr/emplois/informatique-telecoms/specialiste-cybersecurite)
-- 🥅 Objectif 2020: Etre certifier [Discord Développer](https://support.discord.com/hc/fr/articles/360040720412-Bot-Verification-and-Data-Whitelisting)
-- ⚡ Et j'ai aussi un projet de [site internet](https://github.com/Dywan77/HTML-CSS/tree/main/Developper-France.net)
+- 🥅 Objectif 2021: crée un jeu en  [Jeu en C++](https://github.com/Dywan77/Cpp)
+- ⚡ Et je m'interesse a la [SFML](https://www.sfml-dev.org/index-fr.php)
 
 ---
 
@@ -42,3 +42,5 @@
 [twitter]: https://twitter.com/intent/follow?original_referer=https%3A%2F%2Fgithub.com%2FDywan77r&screen_name=Dywan771
 [youtube]: https://www.youtube.com/channel/UCsgPYzCdaRK4dofWhYl0sTA/?sub_confirmation=1
 [instagram]: https://www.instagram.com/dywan77/
+
+//Dywan
