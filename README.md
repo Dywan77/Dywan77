@@ -5,7 +5,7 @@
 
 ## Je suis Lycéen et développer débutant !
 
-- 🔭 Je travail actuelement à amélioré mon [Robot Discord](https://github.com/Dywan77/JavaScript/tree/main/PI%20Discord-robot) 🔥
+- 🔭 Je travail actuelement à amélioré mon [Robot Discord] c'est faux mdr(https://github.com/Dywan77/JavaScript/tree/main/PI%20Discord-robot) 🔥
 - 🌱 Je dois apprendre le [Python](https://github.com/Dywan77/Python) 😭
 - 👯 J'aimerais bien travaillier dans la [cybersécurité de l'armée de terre](https://www.sengager.fr/emplois/informatique-telecoms/specialiste-cybersecurite)
 - 🥅 Objectif 2021: crée un jeu en  [Jeu en C++](https://github.com/Dywan77/Cpp)
